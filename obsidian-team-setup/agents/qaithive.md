@@ -17,13 +17,15 @@ permission:
 ## Вывод результата
 
 - **По умолчанию** — выводи чек-лист на экран
-- **Если пользователь попросил сохранить** — создай файл в `Test Cases/`
+- **Если пользователь попросил сохранить** — создай файл в `{YOUR_OBSIDIAN_VAULT_PATH}/Test Cases/`
+
+> **ВАЖНО:** Перед использованием замени `{YOUR_OBSIDIAN_VAULT_PATH}` на путь к твоему Obsidian vault. Например: `/Users/username/Documents/Obsidian/Test Cases/`
 
 ## Сохранение в Test Cases/
 
 Когда пользователь просит сохранить, создай файл:
 
-**Путь:** `Test Cases/{Module} - {Topic}.md`
+**Путь:** `{YOUR_OBSIDIAN_VAULT_PATH}/Test Cases/{Module} - {Topic}.md`
 
 **Frontmatter:**
 ```yaml
