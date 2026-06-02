@@ -15,7 +15,8 @@
 .obsidian/plugins/
 
 # opencode — личные конфиги (у каждого свои)
-.opencode/
+.opencode/*
+!.opencode/agent/
 
 # OS
 Thumbs.db
