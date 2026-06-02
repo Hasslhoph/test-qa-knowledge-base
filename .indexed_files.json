@@ -1,6 +1,7 @@
 [
   "ithive.assessment360/user-guide/03-o-produkte/01-opisanie-i-kontseptsiya-modulya.md",
   "ithive.assessment360/user-guide/03-o-produkte/02-obzor-razdelov-modulya.md",
+  "ithive.assessment360/user-guide/03-o-produkte/02-obzor-razdelov-modulya.md",
   "ithive.assessment360/user-guide/04-podgotovka-k-otsenke/01-dobavlenie-kompetentsiy-i-kategoriy.md",
   "ithive.assessment360/user-guide/04-podgotovka-k-otsenke/02-dobavlenie-indikatorov-i-privyazka-k-kompetentsiyam.md",
   "ithive.assessment360/user-guide/04-podgotovka-k-otsenke/03-sposoby-otsenki-kompetentsiy.md",
@@ -22,10 +23,14 @@
   "ithive.assessment360/user-guide/about.md",
   "ithive.assessment360/versions.md",
   "ithive.assessment360/whats-new.md",
+  "about.md",
   "new-instruction.md",
   "test-gamification-integration.md",
   "test-notifications.md",
   "test-opencode.md",
   "test-push.md",
-  "test-scorm.md"
+  "test-scorm.md",
+  "03-otsenka-kompetentsiy.md",
+  "06-aktualizatsiya-itogovyh-otsenok-i-urovney-vladeniya-kompetentsiyami.md",
+  "03-ustanovka-obnovlenie-i-udalenie-modulya.md"
 ]
